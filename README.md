@@ -31,6 +31,7 @@ tiver o Lombok na sua IDE, você terá duas opções: Criar os getters e setters
 
 Desafio | Enunciado | Minha Solução
 ------- | --------- | ------------ |
-Eleição | [Verificando se haverá segundo turno]() | [eleicao.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/calculadora)   |
-Bonificação | [Bonificação de acordo com o salario do funcionario](https://www.computersciencemaster.com.br/exercicios-construtores-e-sobrecarga/)  | [bonificacao.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/construtores)  |
+Eleição | [Verificando se haverá segundo turno](https://github.com/LABELLECANDIDO/Algoritmo/blob/main/src/main/java/eleicoes/eleicao.java) | [eleicao.java](https://github.com/LABELLECANDIDO/Algoritmo/blob/main/src/main/java/eleicoes/eleicao.java)   |
+Bonificação | [Bonificação de acordo com o salario do funcionario](https://github.com/LABELLECANDIDO/Algoritmo/blob/main/src/main/java/bonificacao/bonifica%C3%A7%C3%A3o.java)  | [bonificacao.java](https://github.com/LABELLECANDIDO/Algoritmo/blob/main/src/main/java/bonificacao/bonifica%C3%A7%C3%A3o.java)  |
+Carro Pipa | [Quantos minutos serão necessários para encher o reservatório do carro pipa](https://www.computersciencemaster.com.br/exercicio-sistema-de-lanchonete/) | [carroPipa.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/lanchonete)    |
 Lanchonete | [Sistema de Lanchonete](https://www.computersciencemaster.com.br/exercicio-sistema-de-lanchonete/) | [Package Lanchonete](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/lanchonete)    |
