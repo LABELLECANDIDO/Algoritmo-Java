@@ -31,6 +31,6 @@ tiver o Lombok na sua IDE, você terá duas opções: Criar os getters e setters
 
 Desafio | Enunciado | Minha Solução
 ------- | --------- | ------------ |
-Calculadora | [Construindo uma Calculadora](https://www.computersciencemaster.com.br/exercicio-calculadora/) | [Calculadora.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/calculadora)   |
-Construtor | [Construtores](https://www.computersciencemaster.com.br/exercicios-construtores-e-sobrecarga/)  | [Package Construtores](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/construtores)  |
+Eleição | [Verificando se haverá segundo turno]() | [eleicao.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/calculadora)   |
+Bonificação | [Bonificação de acordo com o salario do funcionario](https://www.computersciencemaster.com.br/exercicios-construtores-e-sobrecarga/)  | [bonificacao.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/construtores)  |
 Lanchonete | [Sistema de Lanchonete](https://www.computersciencemaster.com.br/exercicio-sistema-de-lanchonete/) | [Package Lanchonete](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/lanchonete)    |
